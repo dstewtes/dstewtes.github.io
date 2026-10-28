@@ -2,22 +2,14 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
-I am a Ph.D. student at ...
+I am a post-baccalaureate research assistant at Reed College in Portland, Oregon.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interests fall in the realm of **Privacy, Security, and Fairness in Statistics and Machine Learning**. More specifically, most of my research thus far has fallen into the realm of **Differential Privacy**. In general, I am interested in **Cryptography**, with an emphasis on bridging the gap between theoretical guarantees and practical applications.
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
